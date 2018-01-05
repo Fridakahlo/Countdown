@@ -1,0 +1,64 @@
+.countdown {
+	font-size: 110px;
+	text-align: left;
+	line-height: 400px;
+	margin-left: 55px;
+	height: 430px;
+	/*border: solid black 3px;*/
+}
+
+.mainButtons {
+	text-align: left;
+	padding: 60px;
+	margin-left: 40px;
+}
+.mainButton, button{
+	border-radius: 10px;
+	border: 0px;
+}
+
+.inputs, input{
+	border-radius: 10px;
+	text-align: center;
+}
+
+p {
+	/*font-family: Arial,sans-serif;*/
+    font-size: 20px;
+    width: 130px;
+    height: 25px;
+    text-align: center;
+    color: #000;
+    /*background: #444;*/
+}
+
+.inputs {
+	text-align: left;
+	margin-left: 145px;
+}
+
+#inputHours {
+	width: 50px;
+}
+
+#inputMinutes {
+	width: 50px;
+}
+
+#inputSeconds {
+	width: 50px;
+}
+
+
+span {
+	margin: 15px;
+}
+
+html {
+	background-image: url("https://i.pinimg.com/originals/5e/f2/a8/5ef2a828f87025695b636074639c2c87.jpg");
+}
+
+/*.images{
+	width:500px;
+	height:500px;
+}*/
